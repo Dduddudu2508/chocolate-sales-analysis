@@ -1,0 +1,3 @@
+Product 1,Product 2,p-value,p_adjusted,significant
+Drinking Coco,White Choc,4.6643041665478915e-05,0.010774542624725629,True
+Drinking Coco,Almond Choco,9.470479138119192e-05,0.021876806809055335,True
