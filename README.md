@@ -12,3 +12,5 @@ Python · pandas · scipy · matplotlib
 
 ## Notebook
 Open `chocolate_sales.ipynb` for the full analysis.
+## Dataset
+Available on Kaggle: https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales
